@@ -6,5 +6,5 @@
 ### 信号与系统实践环节
 #### [实验一](http://www.baidu.com)
 #### [实验二](https://github.com/ayuyaaaa/yuy/blob/main/%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0)
-#### 实验三
+#### [实验三](http://www.baidu.com)
 
